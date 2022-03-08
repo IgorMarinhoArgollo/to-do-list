@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do List</title>
+    <link rel="stylesheet" type='text/css' href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+</head>
+<header>
+    <h1>My To Do List</h1>
+    <p id="today"></p>
+</header>
+<p id="instructions">Double click on the task to set it as completed. <br> Remember to save your changes!</p>
+<main>
+    <section class="inputsDiv">
+        <input type="text" id="taskText">
+        <button id="createTask">Add</button>
+        <button id="removeAll">Clear</button>
+        <button id="removeEnded"> Remove Ended</button>
+        <button id="removeSelected">Remove Selected</button>
+        <button id="saveTasks">Save</button>
+        <button id="moveUp">UP</button>
+        <button id="moveDown">DOWN</button>
+        <p>You have <b class="pending">0</b> pending task.</p>
+    </section>
+    <ol id="taskList">
+    </ol>
+</main>
+
+<body>
+    <script src="script.js"></script>
+</body>
+
+</html>

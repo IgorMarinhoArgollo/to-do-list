@@ -1,0 +1,110 @@
+* {
+  padding   : 0;
+  margin    : 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Permanent Marker', cursive;
+  color      : #111111;
+  background : linear-gradient(#68EACC 0%, #497BE8 100%);
+  margin-left: 10px;
+  min-height : 100vh;
+}
+
+header {
+  margin: 25px 10vw;
+}
+
+#today {
+  margin-left: 15px;
+  color      : orangered;
+}
+
+#instructions {
+  margin: 0 10vw 15px 10vw;
+}
+
+input {
+  width        : 70vw;
+  height       : 30px;
+  border-radius: 5px;
+}
+
+#mainTitle {
+  text-align: center;
+}
+
+.inputsDiv {
+  margin: 3vh 10vw;
+}
+
+li {
+  height             : 120px;
+  width              : 160px;
+  margin             : 25px auto;
+  padding            : 15px;
+  font-size          : 0.85rem;
+  user-select        : none;
+  -moz-user-select   : none;
+  -webkit-user-select: none;
+  -ms-user-select    : none;
+  transition         : all 500ms ease;
+}
+
+ol {
+  margin-top: 35px;
+  display   : flex;
+  flex-wrap : wrap;
+}
+
+.selectedTask {
+  transform : scale(1.05);
+  box-shadow: 3px 2px 2px;
+}
+
+.completed {
+  text-decoration: line-through;
+  opacity        : 0.7;
+}
+
+.pinkPostIt {
+  background-color: #ff7eb9;
+}
+
+.pinkPostItStronger {
+  background-color: #ff65a3;
+}
+
+.bluePostIt {
+  background-color: #7afcff;
+}
+
+.yellowPostIt {
+  background-color: #feff9c;
+}
+
+.yellowPostItStronger {
+  background-color: #fff740;
+}
+
+.fall {
+  transform: translateY(8rem) rotateZ(20deg);
+  opacity  : 0;
+}
+
+.pending {
+  color: orangered;
+}
+
+button {
+  background-color: #8E49E8;
+  height          : 30px;
+  border-radius   : 5px;
+  color           : white;
+  margin          : 5px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 800;
+  padding: 5px;
+  font-size: 0.6em;
+}
