@@ -1,19 +1,20 @@
 # To Do List Project
-This is my first deployable project. I did it while I was starting my studies on the Fundamentals of Web Development in the Trybe course.
+This is My To Do List. I did it while I was studying on the Fundamentals of Web Development in the Trybe course.
 
 ## Live Link
-<a href="https://pixels-art-project.netlify.app">Pixel Art</a>
+<a href="https://to-do-postit.netlify.app/">To Do List</a>
   
 ## Screenshot
 ![ScreenShot](./images/screenshot.png)
 
 ## My Goals
-* Create color palette with 4 colors, black as first (pre-selected) and three others randomly generated;
-* Create a board measuring 5x5;
-* Paint each pixel on click with the selected color;
-* Create a clean up button;
-* Create an input to change the size of the board (between 5 and 50 pixels);
-* Create an input to change dimensions of the pixels.
+* Create a to do list;
+* Allow adding and removing tasks;
+* Allow remove all tasks;
+* Allow saving tasks on localstorage;
+* Allow complete and move tasks;
+* Each tasks has a random color of a postIt;
+* Show the number of pending tasks.
 
 ## Used Technologies
   * HTML
@@ -23,10 +24,10 @@ This is my first deployable project. I did it while I was starting my studies on
   * Semantic HTML
 
 ## How to use it
-  Just go to the page, configure the size of the board and the size of the pixels, select the color and have fun.
+  Go to the page, add all your tasks, organize the tasks you have added and after completing the task, double click on it to set as complete. 
   <br>
-  Tip: If you refresh the page the colors will change (except black) and you will be able to color diferent things.
+  Tip: Remember to save your work, after changes!
 
 ## Development Information
-  Development Commits: 15; <br>
+  Development Commits: 12; <br>
   Time Spent: 3 days; <br> 
