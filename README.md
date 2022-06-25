@@ -1,4 +1,27 @@
 # To Do List Project
+  <details>
+  <summary><h2>:brazil: Português</h2></summary>
+  Esse é a minha lista de tarefas. Eu o desenvolvi enquanto estava estudando Fundamentos de Desenvolvimento Web no curso da Trybe.
+
+  ## Live Link
+  <a href="https://to-do-postit.netlify.app/">To Do List</a>
+  
+  ## Screenshot
+  ![ScreenShot](./images/screenshot.png)
+  
+  ## Objetivos
+  * Criar uma lista de tarefas;
+  * Possibilitar a adição e remoção de tarefas;
+  * Possibilitar remover todas as tarefas;
+  * Possibilitar salvar tarefas no localstorage;
+  * Possibilitar completar e mover tarefas;
+  * Cada tarefa possuir uma cor de background randômica com cores de postIt;
+  * Mostrar o número de tarefas pendentes.
+
+  
+</details>
+  
+##   
 This is My To Do List. I did it while I was studying on the Fundamentals of Web Development in the Trybe course.
 
 ## Live Link
