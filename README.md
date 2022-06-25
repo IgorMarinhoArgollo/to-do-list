@@ -18,7 +18,7 @@
   * Cada tarefa possuir uma cor de background randômica com cores de postIt;
   * Mostrar o número de tarefas pendentes.
 
-    ## Tecnologias Utilizadas
+  ## Tecnologias Utilizadas
   * HTML
   * CSS
   * Javacript
@@ -26,12 +26,12 @@
   * Semantic HTML
   
   
-## Como usar
+  ## Como usar
   Acesse a página, adicione as suas tarefas, organize as suas tarefas e após completa-las clique duas vezes sobre a tarefa para marca-la como completa. 
   <br>
   Dica: Lembre de salvar o seu trabalho após realizar alterações!	
 
-## Informações de Desenvolvimento
+  ## Informações de Desenvolvimento
   Commits de Desenvolvimento: 12; <br>
   Tempo Gasto: 3 days;
 </details>
