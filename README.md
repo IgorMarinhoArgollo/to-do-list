@@ -40,7 +40,7 @@
   ### Clonar no seu computador (via SSH)
   No terminal:
   
-    git clone git@github.com:IgorMarinhoArgollo/pixel-art.git
+    git clone git@github.com:IgorMarinhoArgollo/to-do-list.git
   
 
   ### Iniciando o projeto localmente
@@ -93,7 +93,7 @@
   ### Cloning into your computer (via SSH)
   On terminal:
 
-      git clone git@github.com:IgorMarinhoArgollo/pixel-art.git
+      git clone git@github.com:IgorMarinhoArgollo/to-do-list.git
 
   ### Starting project locally
   On the directory that you have cloned the repository, paste the command on terminal to start the application:
