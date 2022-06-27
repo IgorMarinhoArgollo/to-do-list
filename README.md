@@ -34,17 +34,21 @@
   
   ## Rodar Localmente
   ### Requisitos:
-    * Node v16
-    * Google Chrome
+   * Node v16
+   * Google Chrome
     
   ### Clonar no seu computador (via SSH)
-    no terminal:
-      git clone git@github.com:IgorMarinhoArgollo/pixel-art.git
+  No terminal:
+  
+    git clone git@github.com:IgorMarinhoArgollo/pixel-art.git
+  
 
   ### Iniciando o projeto localmente
-    no diretório em que o repositório foi clonado, cole o seguinte comando no terminal para iniciar a aplicação localmente:
+  No diretório em que o repositório foi clonado, cole o seguinte comando no terminal para iniciar a aplicação localmente:
+   
       npm start
-  
+   
+
   ## Informações de Desenvolvimento
   Commits de Desenvolvimento: 12; <br>
   Tempo Gasto: 3 days;
@@ -83,15 +87,17 @@
   
 ## Run Locally
   ### Requirements:
-    * Node v16
-    * Google Chrome
+   * Node v16
+   * Google Chrome
     
   ### Cloning into your computer (via SSH)
-    on terminal:
+  On terminal:
+
       git clone git@github.com:IgorMarinhoArgollo/pixel-art.git
 
   ### Starting project locally
-    on the directory that you have cloned the repository, paste the command on terminal to start the application:
+  On the directory that you have cloned the repository, paste the command on terminal to start the application:
+
       npm start
 
 ## Development Information
