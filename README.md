@@ -60,8 +60,20 @@
   ## Informações de Desenvolvimento
   Commits de Desenvolvimento: 12; <br>
   Tempo Gasto: 3 days;
+
+  ## Como contribuir no projeto
+  1. Faça um **fork** do projeto;
+  2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`;
+  3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`;
+  4. Envie as suas alterações: `git push origin my-feature`;
+  5. Abra o seu pull-request na página do GitHub.
+
+  ## Licença
+  Esse projeto está sob a licença:
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </details>
-  
+
+
 ##   
 <p>This is My To Do List. I did it while I was studying on the Fundamentals of Web Development in the Trybe course, for educational purpose.</p><br>
 <p> This project is a to do list that has the functionality to add tasks, remove tasks, adjust the order of tasks, complete tasks and also has a random color generation system for tasks notes and a system for store tasks in localstorage</p>
@@ -109,3 +121,14 @@
 ## Development Information
   Development Commits: 12; <br>
   Time Spent: 3 days; <br> 
+  
+## How to contribute on the project
+  1. Make a **fork** of the project;
+  2. Create a new branch with your changes: `git checkout -b my-feature`;
+  3. Save your changes and create a commit message explaining what you have done: `git commit -m "feature: My new feature"`;
+  4. Send your changes: `git push origin my-feature`;
+  5. Open your pull-request on GitHub.
+  
+## License
+  This project is under license:
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
