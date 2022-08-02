@@ -1,4 +1,16 @@
 # To Do List Project
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/igormarinhoargollo/to-do-list?color=%2304D361">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/igormarinhoargollo/to-do-list">
+  
+  <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/igormarinhoargollo/to-do-list">
+  </a>
+    
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   
   <details>
   <summary><h2>:brazil: Português</h2></summary>
   <p>Esse é a minha lista de tarefas. Eu o desenvolvi enquanto estava estudando Fundamentos de Desenvolvimento Web no curso da Trybe, para fins educacionais.</p><br>
