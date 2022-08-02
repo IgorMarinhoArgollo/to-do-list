@@ -1,11 +1,11 @@
 # To Do List Project
 
-<p align="center">
+<p>
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/igormarinhoargollo/to-do-list?color=%2304D361">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/igormarinhoargollo/to-do-list">
   
-  <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
+  <a href="https://github.com/igormarinhoargollo/to-do-list/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/igormarinhoargollo/to-do-list">
   </a>
     
