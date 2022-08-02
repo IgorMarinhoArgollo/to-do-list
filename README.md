@@ -5,11 +5,9 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/igormarinhoargollo/to-do-list">
   
-  <a href="https://github.com/igormarinhoargollo/to-do-list/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/igormarinhoargollo/to-do-list">
-  </a>
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/igormarinhoargollo/to-do-list">
     
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    
   <details>
   <summary><h2>:brazil: Português</h2></summary>
