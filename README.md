@@ -55,11 +55,6 @@
 
   ### Iniciando o projeto localmente
   Abra o projeto com o VS Code e rode-o com a extensão Live Server
-   
-
-  ## Informações de Desenvolvimento
-  Commits de Desenvolvimento: 12; <br>
-  Tempo Gasto: 3 days;<br><br>
 
   ## Como contribuir no projeto
   1. Faça um **fork** do projeto;
@@ -127,10 +122,6 @@
 
   ### Starting project locally
   Open the project with VS Code and run it with the Live Server Extension.
-
-## Development Information
-  Development Commits: 12; <br>
-  Time Spent: 3 days; <br><br>
   
 ## How to contribute on the project
   1. Make a **fork** of the project;
